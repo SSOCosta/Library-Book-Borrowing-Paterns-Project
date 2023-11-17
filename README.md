@@ -69,7 +69,7 @@ Data Analysis Tasks:
 
 Documentation: 
 
-Please check documentation at libraries_documentation.txt for better understanding of the used dataset.
+Please check documentation at 'libraries_documentation.docx' for better understanding of the used dataset.
 
 
 
