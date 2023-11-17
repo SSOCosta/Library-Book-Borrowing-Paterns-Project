@@ -1,4 +1,4 @@
-# Project Title: Exploring the Evolution of Book Borrowing Patterns and User Engagement in Netherlands Libraries
+# Exploring the Evolution of Book Borrowing Patterns and User Engagement in Netherlands Libraries
 
 # Overview
 This project aims to investigate the evolution of book borrowing habits and user engagement in Netherlands libraries over the last 18 years (2005-2022).
