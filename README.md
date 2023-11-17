@@ -50,9 +50,7 @@ Netherlands libraries dataset - https://opendata.cbs.nl/statline/#/CBS/nl/datase
 
 Tableau Vizualization
 
-Tableau link:
-
-https://public.tableau.com/app/profile/susy.costa/viz/Libraries_borrow_patterns_NL/Netherlandspopulationdemography?publish=yes
+Tableau link: https://public.tableau.com/app/profile/susy.costa/viz/Libraries_borrow_patterns_NL/Netherlandspopulationdemography?publish=yes
 
 Code
 Programming Language:
