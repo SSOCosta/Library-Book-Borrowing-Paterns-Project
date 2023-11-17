@@ -41,7 +41,7 @@ Suggestions for future research.
 
 # How to Use This Repository
 
-For Data: 
+Data 
 
 The datasets used in this project are available for access from the following sources:
 
@@ -49,11 +49,8 @@ Population_demographic_evolution - https://www.cbs.nl/en-gb/visualisations/dashb
 
 Netherlands libraries dataset - https://opendata.cbs.nl/statline/#/CBS/nl/dataset/70763ned/table
 
-For Tableau visualisation:
-
-Tableau link: https://public.tableau.com/app/profile/susy.costa/viz/Libraries_borrow_patterns_NL/Netherlandspopulationdemography?publish=yes
-
 Code
+
 Programming Language:
  - Python
 
@@ -62,7 +59,7 @@ Dependencies (Libraries):
  - NumPy: Numerical operations on arrays.
  - Mysql : data connection to mysql database
  - Matplotlib and Seaborn: Data visualization.
- - Tableau : Data visualization
+ - Tableau : Data visualization  https://public.tableau.com/app/profile/susy.costa/viz/Libraries_borrow_patterns_NL/Netherlandspopulationdemography?publish=yes
 
 Data Analysis Tasks:
  - Exploratory Data Analysis (EDA)
@@ -71,6 +68,7 @@ Data Analysis Tasks:
  - Performed basic statistical analysis used descriptive statistics.
 
 Documentation: 
+
 Please check documentation at libraries_documentation.txt for better understanding of the used dataset.
 
 
