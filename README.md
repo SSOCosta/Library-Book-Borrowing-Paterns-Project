@@ -48,6 +48,12 @@ Population_demographic_evolution - https://www.cbs.nl/en-gb/visualisations/dashb
 
 Netherlands libraries dataset - https://opendata.cbs.nl/statline/#/CBS/nl/dataset/70763ned/table
 
+Tableau Vizualization
+
+Tableau link:
+
+https://public.tableau.com/app/profile/susy.costa/viz/Libraries_borrow_patterns_NL/Netherlandspopulationdemography?publish=yes
+
 Code
 Programming Language:
  - Python
@@ -57,6 +63,7 @@ Dependencies (Libraries):
  - NumPy: Numerical operations on arrays.
  - Mysql : data connection to mysql database
  - Matplotlib and Seaborn: Data visualization.
+ - Tableau : Data visualization
 
 Data Analysis Tasks:
  - Exploratory Data Analysis (EDA)
