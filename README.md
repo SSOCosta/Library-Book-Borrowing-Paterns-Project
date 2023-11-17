@@ -41,14 +41,15 @@ Suggestions for future research.
 
 # How to Use This Repository
 
-Data
+For Data: 
+
 The datasets used in this project are available for access from the following sources:
 
 Population_demographic_evolution - https://www.cbs.nl/en-gb/visualisations/dashboard-population/population-dynamics/population-growth
 
 Netherlands libraries dataset - https://opendata.cbs.nl/statline/#/CBS/nl/dataset/70763ned/table
 
-Tableau Vizualization
+For Tableau visualisation:
 
 Tableau link: https://public.tableau.com/app/profile/susy.costa/viz/Libraries_borrow_patterns_NL/Netherlandspopulationdemography?publish=yes
 
