@@ -64,7 +64,7 @@ Dependencies (Libraries):
 Data Analysis Tasks:
  - Exploratory Data Analysis (EDA)
  - Used Pandas and numpy for loading and cleaning data.
- - Used Matplotlib and Seaborn for visualizations.
+ - Used Matplotlib, Seaborn and Tableau for visualizations.
  - Performed basic statistical analysis used descriptive statistics.
 
 Documentation: 
