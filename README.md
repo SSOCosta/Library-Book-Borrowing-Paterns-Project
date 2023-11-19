@@ -72,7 +72,7 @@ Data Analysis Tasks:
 Challenges Encountered:
 
 - **Language Translation:**
-  - The original dataset was in Dutch, necessitating translation to English for clarity and consistency.
+  - The original datasets were in Dutch, necessitating translation to English for clarity and consistency.
   - Implemented language translation techniques to ensure accurate interpretation of data elements.
     
 - **Absence of Demographic Information:**
