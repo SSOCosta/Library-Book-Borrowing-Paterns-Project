@@ -66,6 +66,21 @@ Data Analysis Tasks:
  - Used Pandas and numpy for loading and cleaning data.
  - Used Matplotlib, Seaborn and Tableau for visualizations.
  - Performed basic statistical analysis used descriptive statistics.
+ - Investigated temporal trends in book borrowing habits and user engagement over the specified 18-year period (2005-2022).
+ - Identified patterns in library dynamics, highlighting periods of significant change or stability.
+
+Challenges Encountered:
+
+- **Language Translation:**
+  - The original dataset was in Dutch, necessitating translation to English for clarity and consistency.
+  - Implemented language translation techniques to ensure accurate interpretation of data elements.
+    
+- **Absence of Demographic Information:**
+  - Noted the absence of crucial demographic factors, including gender and location data for library users, in the original datasets.
+    
+### Documentation:
+
+For a more detailed understanding of the dataset and analysis methods, please refer to the documentation provided in 'libraries_documentation.docx'.
 
 Documentation: 
 
