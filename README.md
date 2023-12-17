@@ -1,5 +1,5 @@
 # Exploring the Evolution of Book Borrowing Patterns and User Engagement in Netherlands Libraries
-
+![Cover Image](github_cover/csm_2022-09-09_Bild_fuer_Book_Swap__c_Robert_Anasch__unsplash.com_7ba19b5dd2.jpg)
 # Overview
 This project aims to investigate the evolution of book borrowing habits and user engagement in Netherlands libraries over the last 18 years (2005-2022).
 The goal is to gain insights into the changes in library dynamics, providing a comprehensive understanding of how user behavior and borrowing preferences have 
